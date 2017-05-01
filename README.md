@@ -9,9 +9,13 @@ See more [Magento Multi Vendor](https://www.magebay.com/magento-multi-vendor-mar
 - Allow Admin set enable/disable USPS Shipping method in backend.
 - Admin can change USPS shipping method name that will be display on checkout page
 - Allow Vendors set their USPS details to manage shipment of their orders.
+- Vendor can enter tracking id to detail order.
+- Vendor can print shipping label.
 - Allow Customer can choose vendor USPS shipping method
 
 This module helps Admin can provide USPS (United States Postal Service) shipping method for vendor's products. The vendors can setup their USPS shipping method in seller dashboard. It is very useful for online marketplace website. 
+
+Customers can choose USPS shipping method in checkout page if admin has enabled this shipping method and vendor has provided USPS shipping method for their products. Also Vendors can enter tracking number for their order and print shipping label,
 
 ### Other Features:
 - 100% open source, no encryption code
